@@ -1,7 +1,8 @@
 # Space Missions Exploration
 
 ## Description
-The project is the **Exploratory Data Analysis** (EDA) of all **Space Missions** from **1957** to **2020**.
+* The project is the **Exploratory Data Analysis** (EDA) of all **Space Missions** from **1957** to **2020**.<br>
+* The **insights** of the **Space Missions** have been visually expressed through **interactive graphs/charts**.
 <hr>
 
 ## Additional details
