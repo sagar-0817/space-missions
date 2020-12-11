@@ -6,8 +6,7 @@ The project is the **Exploratory Data Analysis** (EDA) of all **Space Missions**
 
 ## Additional details
 * There is one jupyter notebook in the project [space-missions.ipynb](https://github.com/sagar-0817/space-missions/blob/master/space-missions.ipynb) in which the EDA has been done.<br>
-* Additionally, there is also a dataset which is used in the notebook called 
-[space_missions.csv](https://github.com/sagar-0817/space-missions/blob/master/space_missions.csv).<br>
+* The notebook uses a dataset called [space_missions.csv](https://github.com/sagar-0817/space-missions/blob/master/space_missions.csv).<br>
 * To understand how to interact with the different plotly graphs, you can view [this](https://github.com/sagar-0817/plotly-graph-instructions/blob/master/plotly-graph-instructions.ipynb) notebook.
 <hr>
 
