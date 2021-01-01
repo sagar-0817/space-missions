@@ -1,12 +1,12 @@
 # Space Missions Exploration
 
 ## Description
-* The project is the **Exploratory Data Analysis** (EDA) of all **Space Missions** from **1957** to **2020**.<br>
+* The project is the **Data Analysis** of all **Space Missions** from **1957** to **2020**.<br>
 * The **insights** of the **Space Missions** have been visually expressed through **interactive graphs/charts**.
 <hr>
 
 ## Additional details
-* There is one jupyter notebook in the project [space-missions.ipynb](https://github.com/sagar-0817/space-missions/blob/master/space-missions.ipynb) in which the EDA has been done.<br>
+* There is one jupyter notebook in the project [space-missions.ipynb](https://github.com/sagar-0817/space-missions/blob/master/space-missions.ipynb) in which the Data Analysis has been done.<br>
 * The notebook uses a dataset called [space_missions.csv](https://github.com/sagar-0817/space-missions/blob/master/space_missions.csv).<br>
 * To understand how to interact with the different plotly graphs, you can view [this](https://github.com/sagar-0817/plotly-graph-instructions/blob/master/plotly-graph-instructions.ipynb) notebook.
 <hr>
